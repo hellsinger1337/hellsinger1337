@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A participant and winner of numerous mathematics Olympiads, a computer science student, and a Python developer.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hellsinger1337)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellsinger1337&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hellsinger1337/hellsinger1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
